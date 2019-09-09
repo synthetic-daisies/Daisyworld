@@ -2,4 +2,4 @@
 
 Daisyworld model (James Lovelock)  [link](https://en.wikipedia.org/wiki/Daisyworld)
 
-Code for daisyworld simulation   [iPython notebook](https://github.com/synthetic-daisies/Daisyworld/blob/master/daisyworld.ipynb)
+Code for daisyworld simulation   [iPython notebook](https://github.com/synthetic-daisies/Daisyworld/blob/master/Daisyworld%20in%20Python.ipynb)
